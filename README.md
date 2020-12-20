@@ -1,2 +1,2 @@
 # employeeProjectInCPP
-this my project made in c++ programming 
+this is my project made in c++ programming 
